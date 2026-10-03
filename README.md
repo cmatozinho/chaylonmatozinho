@@ -33,9 +33,9 @@ Meu trabalho fica entre a tecnologia e o negócio. Coordeno equipes, acompanho S
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**MeuPersonal**](https://github.com/SEU-USUARIO/meupersonal) | Aplicação web multiusuário para personal trainers gerenciarem alunos e treinos | React · Supabase |
-| [**Finanças Pessoais**](https://github.com/SEU-USUARIO/financas-pessoais) | Dashboard de controle financeiro pessoal com categorias, gastos e metas | Node.js · SQLite |
-| [**SQL & Automação**](https://github.com/SEU-USUARIO/sql-automacao) | Scripts de exemplo para indicadores de SLA, análise de desempenho e automação de relatórios (dados fictícios) | SQL · Python |
+| [**MeuPersonal**](https://github.com/chaylonmatozinho/meupersonal) | Aplicação web multiusuário para personal trainers gerenciarem alunos e treinos | React · Supabase |
+| [**Finanças Pessoais**](https://github.com/chaylonmatozinho/financas-pessoais) | Dashboard de controle financeiro pessoal com categorias, gastos e metas | Node.js · SQLite |
+| [**SQL & Automação**](https://github.com/chaylonmatozinho/sql-automacao) | Scripts de exemplo para indicadores de SLA, análise de desempenho e automação de relatórios (dados fictícios) | SQL · Python |
 
 > Boa parte da minha experiência profissional foi em ambientes de clientes sob sigilo contratual. Os projetos aqui são pessoais ou reconstruídos com dados fictícios, para mostrar a forma como eu trabalho.
 
